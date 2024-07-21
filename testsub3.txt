@@ -1,1 +1,5 @@
-#subscription-userinfo: upload=455727941; download=6174315083; totl=1073741824000; expire=1671815872
+پروفایل یک = <name>
+usage=<download>+<upload> (if more than 80% of total :yellow,  more than 100% :red)
+total=<total>
+روزباقیمانه=relative date of <expire> (if less than 7 days: yellow, less than zero: red)
+مشاهده= open browser with <profile-web-page-url>
