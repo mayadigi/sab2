@@ -1,0 +1,1 @@
+#subscription-userinfo: upload=455727941; download=6174315083; totl=1073741824000; expire=1671815872
