@@ -1,5 +1,0 @@
-پروفایل یک = <name>
-usage=<download>+<upload> (if more than 80% of total :yellow,  more than 100% :red)
-total=<total>
-روزباقیمانه=relative date of <expire> (if less than 7 days: yellow, less than zero: red)
-مشاهده= open browser with <profile-web-page-url>
